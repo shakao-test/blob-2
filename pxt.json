@@ -10,7 +10,7 @@
         "main.blocks",
         "main.ts",
         "blob.jres",
-        "blob.js"
+        "blob.ts"
     ],
     "testFiles": [
         "test.ts"
