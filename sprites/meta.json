@@ -1,9 +1,0 @@
-{
-    "blockIdentity": "images._image",
-    "creator": "image.ofBuffer",
-    "basename": "blob",
-    "star": {
-        "namespace": "custom.blob",
-        "mimeType": "image/x-mkcd-f4"
-    }
-}
